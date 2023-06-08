@@ -1,0 +1,16 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.Form1.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\bin\Debug\EFCodeFirtsCRUD.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\bin\Debug\EFCodeFirtsCRUD.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\bin\Debug\EFCodeFirtsCRUD.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\bin\Debug\EntityFramework.dll
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\bin\Debug\EntityFramework.xml
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.csproj.CopyComplete
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WinFormEntityFrameworkCodeFirstProjesi\EFCodeFirtsCRUD\obj\Debug\EFCodeFirtsCRUD.pdb

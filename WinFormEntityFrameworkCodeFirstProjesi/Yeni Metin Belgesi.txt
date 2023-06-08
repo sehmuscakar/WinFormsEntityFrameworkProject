@@ -1,0 +1,1 @@
+class lar ve context oluşturuldu ve entityframework kütüphanesi yuklendi
